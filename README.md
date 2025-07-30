@@ -15,10 +15,10 @@ A clean, minimalist to-do list application built with vanilla HTML, CSS, and Jav
 
 ## 🚀 Demo
 
-![To-Do List Demo](demo-screenshot.png)
-<img width="812" height="800" alt="image" src="https://github.com/user-attachments/assets/bdaf6bb9-17be-4265-a115-8db599e2a2a9" />
 
-*A screenshot showing the clean interface with sample tasks*
+<img width="612" height="600" alt="image" src="https://github.com/user-attachments/assets/bdaf6bb9-17be-4265-a115-8db599e2a2a9" />
+
+
 
 ## 🛠️ Technologies Used
 
