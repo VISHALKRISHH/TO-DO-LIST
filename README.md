@@ -38,15 +38,15 @@ No special requirements - runs in any modern web browser!
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/modern-todo-list.git
+git clone [https://github.com/VISHALKRISHH/TO-DO-LIST.git]
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd modern-todo-list
+cd TO-DO-LIST
 ```
 
-3. Open `index.html` in your web browser:
+3. Open `TO-DO-LIST.html` in your web browser:
 ```bash
 # Using Python (if installed)
 python -m http.server 8000
